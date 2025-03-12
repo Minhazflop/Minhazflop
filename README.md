@@ -11,7 +11,7 @@
 
 ## 🚀 Connect with me  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minhazflop)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhazurrahman)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhazur-rahman-0a76a8204/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/minhazflop)  
 
 ## 🛠️ Tech Stack  
@@ -32,6 +32,15 @@
 ## 📊 GitHub Stats  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazflop&layout=compact&theme=radical" width="48%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=minhazflop&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazflop&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+<br clear="both">
+
+### 🐍 Snake Contribution Graph  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=minhazflop&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazflop&theme=radical" width="48%" alt="GitHub Streak">
 </p>

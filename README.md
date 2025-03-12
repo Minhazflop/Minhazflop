@@ -35,4 +35,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=minhazflop&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhazflop&theme=radical" width="48%" alt="GitHub Streak">
 </p>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###

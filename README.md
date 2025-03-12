@@ -37,9 +37,3 @@
 </p>
 
 <br clear="both">
-
-### 🐍 Snake Contribution Graph  
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-###

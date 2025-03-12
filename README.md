@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@minhazflop" target="blank"><img src="https://img.shields.io/twitter/follow/@minhazflop?logo=twitter&style=for-the-badge" alt="@minhazflop" /></a> </p>
 
-- 🔭 I’m currently working on **jama_lagbe**
+- 🔭 I’m currently working on **Dengue Prediction Using Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
 

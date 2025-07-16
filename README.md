@@ -4,12 +4,40 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
-🔭 Currently working on ** Currently diving deep into two exciting projects:
- • 🤖 Building an AI-powered image detection system using neural networks
- • 🧠 Developing an NLP-driven Question Generator from context passages, enhanced by agentic AI for smarter interactions**  
-🌱 Exploring **AI, Deep Learning & Data Science**  
-📫 Reach me at **minhazur.rahman12@northsouth.edu**  
-⚡ Fun fact: **Debugging is my late-night superpower!**  
+### 🔭 Currently Working On
+
+- 🤖 **AI Image Detection** using Neural Networks  
+- 🧠 **Question Generation from Contextual Passages** using NLP and Agentic AI  
+
+Both projects are focused on solving real-world problems using machine intelligence and automation.
+
+---
+
+### 🌱 Learning Journey
+
+I'm constantly exploring the fields of:
+
+- 🚀 Artificial Intelligence  
+- 📚 Deep Learning  
+- 📊 Data Science  
+
+I love working with data, training models, and building tools that make machines smarter!
+
+---
+
+### 📫 Let’s Connect
+
+Feel free to reach out to me at:  
+📧 **minhazur.rahman12@northsouth.edu**
+
+---
+
+### ⚡ Fun Fact
+
+> I debug best when the world sleeps —  
+> **🌙 Midnight bugs beware!**
+
+--- 
 
 ## 🚀 Connect with me  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minhazflop)  

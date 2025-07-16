@@ -1,6 +1,6 @@
 ![logo](https://github.com/Minhazflop/Minhazflop/blob/main/Programing.gif)  
 <h1 align="center">Hello there! 👋 I'm Minhaz</h1>
-<h3 align="center">A passionate full-stack developer & ML enthusiast from Bangladesh</h3>  
+<h3 align="center">A passionate Data enthusiast, AI & ML enthusiast from Bangladesh</h3>  
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 

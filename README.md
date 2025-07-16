@@ -4,7 +4,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  
 
-🔭 Currently working on **Dengue Prediction Using Machine Learning**  
+🔭 Currently working on **Currently diving deep into two exciting projects:
+ • 🤖 Building an AI-powered image detection system using neural networks
+ • 🧠 Developing an NLP-driven Question Generator from context passages, enhanced by agentic AI for smarter interactions**  
 🌱 Exploring **AI, Deep Learning & Data Science**  
 📫 Reach me at **minhazur.rahman12@northsouth.edu**  
 ⚡ Fun fact: **Debugging is my late-night superpower!**  
